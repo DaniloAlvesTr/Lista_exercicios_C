@@ -22,7 +22,7 @@ int main(){
             }
       
         printf("o resultado da sequencia é: %d", result);
-        printf("\npara continuar, aperte 1, para fechar 0\n-> ");
+        printf("\npara continuar, digite 1, para fechar 0\n-> ");
         scanf("%d", &cond);
         if(cond == 1){
             continue;}
