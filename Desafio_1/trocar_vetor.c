@@ -18,6 +18,6 @@ int trocarvetor(){
 }
 
 int main(){
-    /*Leia um vetor de 16 posições e troque os 8 primeiros valore pelos 8 ultimos e vice-versa*/
+    /*Leia um vetor de 16 posições e troque os 8 primeiros valores pelos 8 ultimos e vice-versa*/
     trocarvetor();
 }
