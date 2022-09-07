@@ -1,7 +1,7 @@
 int trocarvetor(){
     int v[16];
     int i,aux;
-    int lim = (15/2)+1;
+    int lim = (16/2);
     for(i = 0; i<16; i++){
         printf("Digite o valor da posicao %d do vetor: ", i);
         scanf("%d", &v[i]);
